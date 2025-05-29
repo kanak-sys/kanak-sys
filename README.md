@@ -102,9 +102,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExExExTenTaSeeOn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanak-sys&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExExExTenTaSeeOn&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanak-sys&theme=tokyonight" />
 </p>
 
 ---
