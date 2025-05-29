@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:mkanak0430@gmail.com"><img src="https://img.shields.io/badge/Email-mkanak0430@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/kanak-kumari-173761219/"><img src="https://img.shields.io/badge/LinkedIn-Kanak%20Kumari-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/ExExExTenTaSeeOn"><img src="https://img.shields.io/badge/GitHub-ExExExTenTaSeeOn-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/kanak-sys"><img src="https://img.shields.io/badge/GitHub-ExExExTenTaSeeOn-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
