@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:mkanak0430@gmail.com"><img src="https://img.shields.io/badge/Email-mkanak0430@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/kanak-kumari-173761219/"><img src="https://img.shields.io/badge/LinkedIn-Kanak%20Kumari-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/kanak-sys"><img src="https://img.shields.io/badge/GitHub-ExExExTenTaSeeOn-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/kanak-sys"><img src="https://img.shields.io/badge/GitHub-kanak-sys?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -58,16 +58,11 @@
 
 ## 🚀 Projects
 
-### 📊 [SaaS Dashboard (2025)](https://github.com/ExExExTenTaSeeOn)
-> 🧩 Admin panel with ShadCN UI & Tailwind CSS  
-> 🛠 Simulated backend with Python + MongoDB  
-> 🌍 Deployed on Vercel, 20% performance boost
-
-### 💸 [Expense Tracker (2024)](https://github.com/ExExExTenTaSeeOn/ExpenseTracker)
+### 💸 [Expense Tracker (2024)](https://github.com/kanak-sys/ExpenseTracker)
 > 🔧 Built using Java OOPs principles  
 > 📉 Daily spend summaries + standard workflow
 
-### 🧪 [DupAlert (2024)](https://github.com/ExExExTenTaSeeOn/DupAlert)
+### 🧪 [DupAlert (2024)](https://github.com/kanak-sys/DupAlert)
 > 🧬 Detects duplicate content via Python + JS + PyQt5  
 > ☁️ CLI Deployed to AWS S3, Linux & Windows support
 
