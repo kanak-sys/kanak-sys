@@ -14,50 +14,77 @@
 
 ## 💡 About Me
 
-🎓 B.Tech student (Amity University, 2022–2026)  
-🚀 Passionate about building SaaS products, cloud development, and scalable backend systems  
-🧠 Enthusiastic about learning TypeScript, debugging, and working with remote agile teams
+🎓 B.Tech CSE student at **Amity University Jharkhand (2022–2026)**  
+💻 Experience in **AI-enabled full-stack apps, secure backend systems & real-time pipelines**  
+🧠 Strong foundation in **DSA, OOP, DBMS, OS & System Design**  
+🏆 **Smart India Hackathon 2024 Finalist**  
 
 ---
 
-## 🔧 Skills & Tools
+## 🧰 Languages & Tools
 
-<table align="center">
-<tr>
-  <td><strong>Frontend</strong></td>
-  <td>JavaScript, HTML/CSS, TailwindCSS, Next.js (Basic)</td>
-</tr>
-<tr>
-  <td><strong>Backend</strong></td>
-  <td>Python, PHP, MySQL</td>
-</tr>
-<tr>
-  <td><strong>Cloud & DevOps</strong></td>
-  <td>AWS (EC2, S3), Linux, Vercel (Basic)</td>
-</tr>
-<tr>
-  <td><strong>Other Tools</strong></td>
-  <td>Git, VS Code, PyQt5</td>
-</tr>
-<tr>
-  <td><strong>Familiar With</strong></td>
-  <td>TypeScript, MongoDB, SaaS Workflows, CI/CD</td>
-</tr>
-</table>
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### 🗄 Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+</p>
+
+### 🛠 Tools & Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+🔹 FFmpeg • Socket.IO • JWT • REST APIs
 
 ---
-
 ## 💼 Experience
 
-### 🏢 National Informatics Centre (Jun 2024 – Aug 2024) — *Intern*
-- Built responsive web apps with JS, HTML/CSS & PHP
-- Improved MySQL performance and integrated CSRF-secured login
-- Collaborated with remote teams, documented workflows
+### 🏢 Vienzor Technologies Pvt. Ltd — *Digital Campaign Tools Intern*  
+📅 **Jun 2025 – Sept 2025 | Remote**
+
+- Improved UI efficiency & component performance by **35%** using optimized React rendering
+- Implemented responsive UI enhancements based on user feedback
+- Collaborated in **Agile teams**, delivering sprint goals on time
+
+---
+
+### 🏢 National Informatics Centre (NIC), Ranchi — *Web Development Intern*  
+📅 **Jun 2024 – Aug 2024**
+
+- Developed **secure backend systems** using PHP, JavaScript & MySQL
+- Improved backend response time and query performance by **32%**
+- Implemented authentication modules reducing unauthorized access by **40%**
 
 ---
 
 ## 🚀 Projects
 
+### 🎥 Video Sensitivity Analysis Application (Full-Stack)
+- Video upload, streaming & **AI-based sensitivity detection**
+- JWT authentication with **role-based access (admin/editor)**
+- Real-time video processing using **FFmpeg & Socket.IO**
+- Optimized backend using parallel frame processing & MongoDB indexing
+
+---
+### 🌦 Weather App (Live)
+- Responsive weather dashboard using **React.js & OpenWeather API**
+- Optimized API calls and state management for real-time updates
+
+---
 ### 💸 [Expense Tracker (2024)](https://github.com/kanak-sys/ExpenseTracker)
 > 🔧 Built using Java OOPs principles  
 > 📉 Daily spend summaries + standard workflow
@@ -70,14 +97,11 @@
 
 ## 🎓 Education
 
-- **Amity University Jharkhand**  
-  *Bachelor of Technology (2022–2026)* – CGPA: 8.66
+🎓 **Amity University Jharkhand**  
+B.Tech in Computer Science & Engineering — **CGPA: 8.5**
 
-- **Mother’s International School**  
-  Class XII – 82%
-
-- **Holy Child School**  
-  Class X – 88%
+🏫 Mother’s International School — Class XII (81%)  
+🏫 Holy Child School — Class X (88%)
 
 ---
 
@@ -85,28 +109,37 @@
 
 - 🧠 [AWS Solutions Architecture Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AWS/kkE9HyeNcw6rwCRGw_AWS%20APAC_v95f5EmXpEby5Ebe2_1725120289854_completion_certificate.pdf)  
 - 💻 [Goldman Sachs Software Engineering Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_v95f5EmXpEby5Ebe2_1683056318953_completion_certificate.pdf)
+- 🐍 Python Essentials 1 – Cisco
+- 🌐 Cisco Packet Tracer – Networking Basics
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Finalist at **Smart India Hackathon 2024**
+🏅 Finalist — **Smart India Hackathon 2024**  
+🏅 Finalist — **Innovate-A-Thon 3.0, BIT Mesra (2025)**  
+🥇 Winner — **NexTech Fiesta Hackathon**, Amity University Jharkhand  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanak-sys&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanak-sys&show_icons=true&theme=default" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanak-sys&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanak-sys&theme=default" />
 </p>
 
 ---
+## 🤝 Connect With Me
 
-## 🔗 Let's Connect!
-
-<p align="center">
-  <a href="mailto:mkanak0430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kanak-kumari-173761219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p>
+  <a href="https://www.linkedin.com/in/kanak-kumari">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:mkanak0430@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"/>
+  </a>
 </p>
+
+⭐ Open to **Software Engineer Intern / Fresher / Backend roles**
