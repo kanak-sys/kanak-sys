@@ -85,9 +85,6 @@
 - Optimized API calls and state management for real-time updates
 
 ---
-### 💸 [Expense Tracker (2024)](https://github.com/kanak-sys/ExpenseTracker)
-> 🔧 Built using Java OOPs principles  
-> 📉 Daily spend summaries + standard workflow
 
 ### 🧪 [DupAlert (2024)](https://github.com/kanak-sys/DupAlert)
 > 🧬 Detects duplicate content via Python + JS + PyQt5  
