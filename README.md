@@ -1,7 +1,7 @@
 <!-- GitHub Profile ReadMe for Kanak Kumari -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Kanak+Kumari;Tech+Enthusiast+%7C+AWS+%7C+Next.js+%7C+TypeScript+Learner;Always+Learning+and+Building!&center=true&width=600&height=45&color=F58CBA&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Kanak+Kumari;Tech+%7C+AWS+%7C+Next.js+%7C+TypeScript+Learner;Always+Learning+and+Building!&center=true&width=600&height=45&color=F58CBA&vCenter=true&size=22" />
 </p>
 
 <p align="center">
